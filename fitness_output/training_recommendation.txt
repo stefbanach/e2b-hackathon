@@ -1,0 +1,79 @@
+### Today's Readiness Assessment
+
+**Readiness Score: 8/10**
+
+Your sleep quality was reported as good with a duration of 8 hours and an HRV of 65, which suggests a well-recovered state. The moderate intensity run from three days ago indicates you have had sufficient recovery time, positioning you well for a workout today.
+
+### Athlete Profile
+
+Based on your recent workout data, you appear to be a **runner** with a focus on endurance and pace. Your 5km run at a 6:00 min/km pace suggests you're training for speed and distance, which aligns well with your upcoming half marathon and half Ironman events.
+
+### Today's Workout Recommendation
+
+Given your readiness and upcoming events, a focused workout to enhance your running efficiency would be beneficial:
+
+**Workout:** Tempo Run
+- **Duration:** 40 minutes
+- **Description:** Start with a 10-minute warm-up at an easy pace. Then, run for 20 minutes at a steady tempo pace (around 5:45-6:00 min/km), focusing on maintaining a consistent effort. Finish with a 10-minute cool-down at an easy pace. This workout will help improve your lactate threshold and race pace for the half marathon.
+
+### 4-Week Training Plan
+
+This training plan is designed to prepare you for the Prague Half Marathon and set a foundation for the Half Ironman, balancing intensity, recovery, and specificity:
+
+[DATE: 2025-03-26] REST DAY | DURATION: 0 min | DESCRIPTION: Full rest day for recovery
+
+[DATE: 2025-03-27] Long Run | DURATION: 90 min | DESCRIPTION: Zone 2 long run on varied terrain, focus on endurance and maintaining a steady pace
+
+[DATE: 2025-03-28] Strength Training | DURATION: 45 min | DESCRIPTION: Core and lower body strength exercises, including squats, lunges, and planks
+
+[DATE: 2025-03-29] Interval Run | DURATION: 50 min | DESCRIPTION: 10-minute warm-up, then 6x1-minute intervals at a fast pace with 2-minute recovery jogs, finish with a 10-minute cool-down
+
+[DATE: 2025-03-30] REST DAY | DURATION: 0 min | DESCRIPTION: Full rest day for recovery
+
+[DATE: 2025-03-31] Easy Run | DURATION: 45 min | DESCRIPTION: Zone 2 easy run on flat terrain, focus on technique
+
+[DATE: 2025-04-01] Tempo Run | DURATION: 40 min | DESCRIPTION: 10-minute warm-up, 20-minute steady tempo run at half marathon pace, 10-minute cool-down
+
+[DATE: 2025-04-02] REST DAY | DURATION: 0 min | DESCRIPTION: Full rest day for recovery
+
+[DATE: 2025-04-03] Long Run | DURATION: 105 min | DESCRIPTION: Zone 2 long run, slightly longer than last week, focus on endurance
+
+[DATE: 2025-04-04] Easy Run | DURATION: 30 min | DESCRIPTION: Light jog to shake out any stiffness before the race
+
+[DATE: 2025-04-05] Prague Half Marathon | DURATION: Varies | DESCRIPTION: Race day! Focus on pacing and enjoy the event
+
+[DATE: 2025-04-06] REST DAY | DURATION: 0 min | DESCRIPTION: Full rest day for recovery post-race
+
+[DATE: 2025-04-07] Easy Run | DURATION: 30 min | DESCRIPTION: Light recovery run, focus on feeling good
+
+[DATE: 2025-04-08] Strength Training | DURATION: 45 min | DESCRIPTION: Core and lower body strength exercises, focus on recovery and building strength
+
+[DATE: 2025-04-09] REST DAY | DURATION: 0 min | DESCRIPTION: Full rest day for recovery
+
+[DATE: 2025-04-10] Interval Run | DURATION: 50 min | DESCRIPTION: 10-minute warm-up, then 6x1-minute intervals at a fast pace with 2-minute recovery jogs, finish with a 10-minute cool-down
+
+[DATE: 2025-04-11] Easy Run | DURATION: 45 min | DESCRIPTION: Zone 2 easy run on flat terrain, focus on technique
+
+[DATE: 2025-04-12] REST DAY | DURATION: 0 min | DESCRIPTION: Full rest day for recovery
+
+[DATE: 2025-04-13] Long Run | DURATION: 120 min | DESCRIPTION: Zone 2 long run, building up endurance for the Half Ironman
+
+[DATE: 2025-04-14] Easy Run | DURATION: 30 min | DESCRIPTION: Light recovery run, focus on feeling good
+
+[DATE: 2025-04-15] Strength Training | DURATION: 45 min | DESCRIPTION: Core and lower body strength exercises, focus on building strength for the upcoming event
+
+[DATE: 2025-04-16] REST DAY | DURATION: 0 min | DESCRIPTION: Full rest day for recovery
+
+[DATE: 2025-04-17] Tempo Run | DURATION: 40 min | DESCRIPTION: 10-minute warm-up, 20-minute steady tempo run at half marathon pace, 10-minute cool-down
+
+[DATE: 2025-04-18] Easy Run | DURATION: 45 min | DESCRIPTION: Zone 2 easy run on flat terrain, focus on technique
+
+[DATE: 2025-04-19] REST DAY | DURATION: 0 min | DESCRIPTION: Full rest day for recovery
+
+[DATE: 2025-04-20] Long Run | DURATION: 135 min | DESCRIPTION: Zone 2 long run, further building endurance for the Half Ironman
+
+[DATE: 2025-04-21] Easy Run | DURATION: 30 min | DESCRIPTION: Light recovery run, focus on feeling good
+
+[DATE: 2025-04-22] REST DAY | DURATION: 0 min | DESCRIPTION: Full rest day for recovery
+
+This plan balances your training load, increases gradually in intensity and volume, and includes necessary rest days to ensure you peak at the right time for both events.

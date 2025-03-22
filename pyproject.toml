@@ -6,9 +6,16 @@ authors = [
     {name = "Boris Kiška",email = "boriskiska@gmail.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.13,<4.0"
 dependencies = [
-    "polars (>=1.25.2,<2.0.0)"
+    "polars (>=1.25.2,<2.0.0)",
+    "requests (>=2.32.3,<3.0.0)",
+    "icecream (>=2.1.4,<3.0.0)",
+    "e2b-code-interpreter (>=1.1.1,<2.0.0)",
+    "python-dotenv (>=1.0.1,<2.0.0)",
+    "openai (>=1.68.2,<2.0.0)",
+    "numpy (>=2.2.4,<3.0.0)",
+    "ics (>=0.7.2,<0.8.0)",
 ]
 
 
